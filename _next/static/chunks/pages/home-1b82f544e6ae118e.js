@@ -79,7 +79,7 @@
                     className:
                       o().dynamic([["50129c140e78c538", [m, b]]]) + " box",
                     children: (0, n.jsx)(c(), {
-                      src: "./tgc737.png",
+                      src: "/tgc737.png",
                       width: t,
                       height: i,
                       alt: "",
