@@ -79,7 +79,7 @@
                     className:
                       o().dynamic([["50129c140e78c538", [m, b]]]) + " box",
                     children: (0, n.jsx)(c(), {
-                      src: "https://www.redoton.com/_next/image?url=%2Fstickers%2F3.png&w=384&q=75",
+                      src: "./tgc737.png",
                       width: t,
                       height: i,
                       alt: "",
